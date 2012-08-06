@@ -14,7 +14,7 @@
     <packaging>jar</packaging>
 
     <properties>
-        <hazelcast.version>2.0.2</hazelcast.version>
+        <hazelcast.version>2.2</hazelcast.version>
     </properties>
 
     <dependencies>
